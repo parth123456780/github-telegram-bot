@@ -19,7 +19,7 @@ from github import Github, GithubException
 # =========================
 # ⚙️ CONFIGURATION
 # =========================
-TELEGRAM_TOKEN = "Enter Here Your Bot Token"
+TELEGRAM_TOKEN = " Enter Here Your Bot Token"
 GITHUB_TOKEN = None  # Optional: Add your GitHub Token for higher limits
 
 # Initialize GitHub
@@ -79,9 +79,9 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "🍴 /forks owner/name - Fork List\n"
         " 📘 /readme owner/name - Readme Preview\n\n"
         "<b> ℹ️ Bot Info</b>\n"
-        "⏳ /rate_limit - API Usage"
-        " 🏓 /ping - Health Check"
-        "  ℹ️ /about - Developer Info"
+        "⏳ /rate_limit - API Usage\n"
+        "🏓 /ping - Health Check\n"
+        "ℹ️ /about - Developer Info\n"
         "━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         "<i>Developed by @SANJIT_CHAURASIYA</i>"
     )
